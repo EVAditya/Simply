@@ -4,4 +4,4 @@ print(a+b)
 print(a+b+4)
 print(a**b)
 
-print('MOTHER FUCKER')
+print('i don\'t use harsh slangs')
